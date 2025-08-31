@@ -41,6 +41,14 @@
 *.VC.db
 *.VC.opendb
 
+# Ignore specific Unreal Engine content folders
+Content/Weapons/
+Content/Blueprints
+Content/LevelPrototyping
+Content/Characters
+Content/Assets
+Content/ThirdPerson
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
